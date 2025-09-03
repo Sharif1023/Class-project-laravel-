@@ -6,7 +6,7 @@
 <div class="container mt-4">
     <div class="card mx-auto" style="max-width: 500px;">
         <div class="card-header bg-secondary text-white">
-            <h4 class="mb-0">User Registration</h4>
+            <h4 class="mb-0">Register Form</h4>
         </div>
         <div class="card-body">
             <!-- Success message -->
@@ -47,7 +47,7 @@
                     <input type="password" class="form-control" name="password_confirmation" id="password_confirmation" placeholder="Confirm password" required minlength="8">
                 </div>
 
-                <button type="submit" class="btn btn-primary btn-block w-100">Register</button>
+                <button type="submit" class="btn btn-primary btn-block w-100">Submit</button>
             </form>
         </div>
     </div>
